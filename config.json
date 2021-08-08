@@ -1,5 +1,6 @@
 {
-	"ip":"spigot100.aternos.me",
+	"ip":"example.aternos.me",
 	"port": "25565",
-	"name": "kaartik"
+	"name": "NRBot",
+	"auto-night-skip":"false"
 }
